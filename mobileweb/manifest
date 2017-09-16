@@ -1,0 +1,17 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+description: TiFlamebase
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2017 by Your Company
+
+# these should not be edited
+name: TiFlamebase
+moduleid: ti.flamebase
+guid: 98139a4c-d9e8-417b-b460-d6158cc083b7
+platform: mobileweb
+minsdk: 6.0.3.GA

@@ -1,0 +1,28 @@
+-x
+objective-c
+-arch
+arm64
+-std=c99
+-fmodules
+-fbuild-session-file=/var/folders/fx/ph1cvxj11h3_cym44f3tg36c0000gn/C/org.llvm.clang/ModuleCache/Session.modulevalidation
+-fpascal-strings
+-Os
+-DTI_VERSION=
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk
+-miphoneos-version-min=6.0
+-g
+-fembed-bitcode-marker
+-iquote
+-iquote
+-I/Users/asyncerror/developer/appcelerator/native_modules/TiFlamebase/iphone/build/Release-iphoneos/include
+-I/Users/asyncerror/Library/Application Support/Titanium/mobilesdk/osx/6.0.3.GA/iphone/include
+-I/Users/asyncerror/Library/Application Support/Titanium/mobilesdk/osx/6.0.3.GA/iphone/include/TiCore
+-I/Users/asyncerror/Library/Application Support/Titanium/mobilesdk/osx/6.0.3.GA/iphone/include/JavaScriptCore
+-F/Users/asyncerror/developer/appcelerator/native_modules/TiFlamebase/iphone/build/Release-iphoneos
+-F/Users/asyncerror/developer/appcelerator/native_modules/TiFlamebase/iphone
+-DTI_POST_1_2
+aarch64-apple-darwin16.7.0
+"4.2.1 Compatible Apple LLVM 8.1.0 (clang-802.0.42)"
+SDK_PRODUCT_BUILD_VERSION=14E8301
+14E8301

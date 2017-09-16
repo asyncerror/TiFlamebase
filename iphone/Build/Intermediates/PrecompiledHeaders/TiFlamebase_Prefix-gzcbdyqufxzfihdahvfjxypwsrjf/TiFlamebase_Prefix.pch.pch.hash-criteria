@@ -1,0 +1,32 @@
+-x
+objective-c
+-arch
+x86_64
+-std=c99
+-fmodules
+-fmodules-cache-path=/Users/asyncerror/Library/Developer/Xcode/DerivedData/ModuleCache
+-fbuild-session-file=/Users/asyncerror/Library/Developer/Xcode/DerivedData/ModuleCache/Session.modulevalidation
+-fpascal-strings
+-O0
+-fno-common
+-DTI_VERSION=
+-DOBJC_OLD_DISPATCH_PROTOTYPES=0
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator10.3.sdk
+-fasm-blocks
+-mios-simulator-version-min=8.0
+-g
+-fobjc-abi-version=2
+-fobjc-legacy-dispatch
+-I/Users/asyncerror/developer/appcelerator/native_modules/TiFlamebase/iphone/Build/Products/Debug-iphonesimulator/include
+-I/Users/asyncerror/Library/Application Support/Titanium/mobilesdk/osx/6.0.3.GA/iphone/include
+-I/Users/asyncerror/Library/Application Support/Titanium/mobilesdk/osx/6.0.3.GA/iphone/include/TiCore
+-I/Users/asyncerror/Library/Application Support/Titanium/mobilesdk/osx/6.0.3.GA/iphone/include/JavaScriptCore
+-F/Users/asyncerror/developer/appcelerator/native_modules/TiFlamebase/iphone/Build/Products/Debug-iphonesimulator
+-F/Users/asyncerror/developer/appcelerator/native_modules/TiFlamebase/iphone
+-DDEBUG
+-DTI_POST_1_2
+x86_64-apple-darwin16.7.0
+"4.2.1 Compatible Apple LLVM 8.1.0 (clang-802.0.42)"
+SDK_PRODUCT_BUILD_VERSION=14E8301
+14E8301
