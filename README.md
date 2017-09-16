@@ -37,6 +37,6 @@ Appcelerator Native iOS Module for receiving Push Notification from Firebase Clo
 </modules>
 ```
 
-5. [MORE INFO COMING]
+5. A working [example](https://github.com/asyncerror/TiFlamebase/tree/master/example) has been added.
 
 
