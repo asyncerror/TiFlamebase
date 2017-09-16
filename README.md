@@ -11,14 +11,18 @@ Appcelerator Native iOS Module for receiving Push Notification from Firebase Clo
 2. Unzip the file in your application root folder
 2.1 After unpacking, your directory will look like this:
 
+```
 <App_Dir>
-|-- app
-|-- modules 
-    |-- iphone
-        |-- ti.flamebase
-            |-- 1.0.0
-	        |-- ....
-	        |-- Resources
+├── modules
+│   └── iphone
+│       └── ti.flamebase
+│           └── 1.0.0
+│               ├── Resources
+│               ├── assets
+│               ├── documentation
+│               ├── example
+│               └── platform
+```
 	
 3. Download the **GoogleService-Info.plist** file from your Firebase Console project.
 3.1 Save it in the **Resources** folder (specified in step 2.1) of the TiFlamebase module.
