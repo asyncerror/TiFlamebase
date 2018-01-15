@@ -1,4 +1,11 @@
 # TiFlamebase 
+
+# DEPRECATED
+
+Use: https://github.com/hansemannn/titanium-firebase
+
+Luckily an official solution came from the Appcelerator team. Therefore, this repository will no longer be updated.
+
 ## Appcelerator iOS Titanium Mobile Module Project
 
 **currently only for iOS**
